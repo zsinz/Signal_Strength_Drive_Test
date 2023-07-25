@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Signal Strength Drive Test</string>
+    <string name="txt1a1">Selamat Datang Di Aplikasi Ini</string>
+    <string name="txt1a1_1">Anda Belum Menyetujui Izin Yang Dibutuhkan Oleh Aplikasi Ini\nSilahkan Ajukan Izin Lagi</string>
+    <string name="txt2a1">Siap</string>
+    <string name="txt2a1_1">Kok Belum IJIN?</string>
+    <string name="txt2a1_2">a :\n%1$s\n\n\n%2$s</string>
+    <string name="txt3a1">Nama</string>
+    <string name="txt3a2">Rata</string>
+    <string name="txt3a3">Maks</string>
+    <string name="txt3a4">Min</string>
+    <string name="btn1a1">Ambil Data</string>
+    <string name="btn1a2">Lihat Data</string>
+    <string name="btn1a3">Minta Izin</string>
+    <string name="btn1a3_1">Izin Sudah Ada</string>
+    <string name="btn2a1">Mulai</string>
+    <string name="btn3a1">Hitung</string>
+    <string name="btn3a2">Map</string>
+    <string name="btn3a3">Backup</string>
+    <string name="btn3a4">Restore</string>
+    <string name="imv1a1">gambar logo</string>
+    <string name="title_activity_lihat_map">lihat_map</string>
+
+</resources>

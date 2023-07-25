@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:columnCount="2"
+    >
+    <TextView
+        style="@style/txt_sum"
+        android:id="@+id/txt3a1"
+        android:text="@string/txt3a1"
+        android:layout_columnWeight="5"/>
+    <TextView
+        style="@style/txt_sum"
+        android:id="@+id/txt3a2"
+        android:text="@string/txt3a2"
+        android:layout_columnWeight="5"/>
+    <TextView
+        style="@style/txt_sum"
+        android:id="@+id/txt3a3"
+        android:text="@string/txt3a3"
+        android:layout_columnWeight="5"/>
+    <TextView
+        style="@style/txt_sum"
+        android:id="@+id/txt3a4"
+        android:text="@string/txt3a4"
+        android:layout_columnWeight="5"/>
+</GridLayout>
